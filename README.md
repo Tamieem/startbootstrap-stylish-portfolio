@@ -1,6 +1,6 @@
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
  
- A landing-page created by me with the use of a bootstrap template for future employers to view and observe
+ A landing-page created by me, with the use of a bootstrap template, for future employers to view and observe
 
 
 
